@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(56, 56, 56);
+    color: rgb(64, 235, 149);
+    text-align: center;
+    align-items: center;
+}
+.scores {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    flex-direction: row;
+}
+h1 {
+    font-size: 6rem;
+}
+p {
+    font-size: 2rem;
+}
